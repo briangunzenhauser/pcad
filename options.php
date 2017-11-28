@@ -1,6 +1,6 @@
 <?php
 
-// You will likely need to remove the open and close PHP on lines 1 and 27 of this file
+// You will likely need to remove the open and close PHP at the top and bottom of each file.
 
 
 // Add custom footer fields
