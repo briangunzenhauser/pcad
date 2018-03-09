@@ -20,7 +20,7 @@ $xlarge: 1280px;
   @elseif $point == xlarge {
     @media (min-width: $xlarge) { @content; }
   }
-  $elseif $point = mycustomrange {
+  $elseif $point == mycustomrange {
     @media (min-width: $medium) and (max-width: $ipad) { @content;}
   }    
 }
